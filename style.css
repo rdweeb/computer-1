@@ -46,7 +46,7 @@ body, html {
   position: absolute;
   width: 180px;
   height: 220px;
-  border-radius: 20px;
+  border-radius: 5px;
   display: flex;
   align-items: center;
   justify-content: center;
