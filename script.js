@@ -1,4 +1,4 @@
-//  site log add more later noted
+//  dont need more sites update names ok? rememeber bro
 const siteData = [
   { name: "ABOUT",        color: "#6C63FF", url: "about.html" },
   { name: "BIO",          color: "#7B5CFA", url: "bio.html" },
